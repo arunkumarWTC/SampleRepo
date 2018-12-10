@@ -1,0 +1,70 @@
+{
+  "status": "ok",
+  "count": 9,
+  "categories": [
+    {
+      "id": 100,
+      "slug": "all-posts",
+      "title": "All Posts",
+      "description": "",
+      "parent": 0,
+      "post_count": 200
+    },
+    {
+      "id": 481,
+      "slug": "adempiere",
+      "title": "ADempiere",
+      "description": "",
+      "parent": 0,
+      "post_count": 58
+    },
+    {
+      "id": 568,
+      "slug": "data-warehouse-bi",
+      "title": "Data Warehouse",
+      "description": "",
+      "parent": 0,
+      "post_count": 16
+    },
+    {
+      "id": 479,
+      "slug": "general",
+      "title": "General",
+      "description": "",
+      "parent": 0,
+      "post_count": 54
+    },
+    {
+      "id": 637,
+      "slug": "hadoop",
+      "title": "Hadoop",
+      "description": "",
+      "parent": 0,
+      "post_count": 2
+    },
+    {
+      "id": 770,
+      "slug": "pentaho-2",
+      "title": "Pentaho",
+      "description": "",
+      "parent": 0,
+      "post_count": 2
+    },
+    {
+      "id": 515,
+      "slug": "sencha-extjs",
+      "title": "Sencha ExtJS",
+      "description": "",
+      "parent": 0,
+      "post_count": 36
+    },
+    {
+      "id": 610,
+      "slug": "sencha-touch",
+      "title": "Sencha Touch",
+      "description": "",
+      "parent": 0,
+      "post_count": 33
+    }
+  ]
+}
